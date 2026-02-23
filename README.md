@@ -34,12 +34,18 @@
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week2/twttr">Just setting up my twttr</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week2/plates">Vanity Plates</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week2/nutrition">Nutrition Facts</a>
+### <a href = "https://cs50.harvard.edu/python/weeks/3/">Week 3 - Exceptions 异常</a>
+  - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week3/fuel">Fuel Gauge</a>
+  - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week3/taqueria">Felipe’s Taqueria</a>
+  - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week3/grocery">Grocery List</a>
+  - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week3/outdated">Outdated</a>
 
 ## 👨‍💻 项目概览
 
 > **课程来源声明**  
 > 本仓库所包含的项目和练习，是基于 **哈佛大学公开课程 [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python)** 的课程大纲、问题集（Problem Sets）和实验（Labs）要求，进行独立实践和完成的作业文件。  
 > 课程版权归属 **哈佛大学 David J. Malan 教授及 CS50 团队** 所有。本仓库仅用于个人学习、技能展示及非商业用途，旨在记录学习过程并作为编程作品集的一部分。所有项目代码均为本人独立编写，课程原始材料请参阅 [CS50 官方课程网站](https://cs50.harvard.edu/python)。
+
 
 
 
