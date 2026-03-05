@@ -10,7 +10,7 @@ elif not os.path.exists(sys.argv[1]):
 
 try:
     line_count = 0
-    with open(sys.argv[1],'r') as file:
+    with open(sys.argv[1]) as file:
         for line in file:
             line_strip = line.strip()
             if not line_strip:
