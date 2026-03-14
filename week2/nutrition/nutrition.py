@@ -1,4 +1,5 @@
 fruit_input = input("Item:").strip().lower()
+
 fruit_dict = {
     "apple": 130,
     "avocado": 50,
@@ -21,6 +22,7 @@ fruit_dict = {
     "tangerine": 50,
     "watermelon": 80
 } 
+
 if fruit_input in fruit_dict:
     print(f"Calories:{fruit_dict[fruit_input]}")
 

@@ -11,6 +11,7 @@ mime_types={
 }
 
 type_name = ""
+
 for type in mime_types:
     if str_input.endswith(type):
         type_name = type
