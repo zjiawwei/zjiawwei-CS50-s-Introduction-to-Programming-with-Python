@@ -51,11 +51,17 @@
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week5/test_bank">Back to the Bank</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week5/test_plates">Re-requesting a Vanity Plate</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week5/test_fuel">Refueling</a>
-### <a href = "https://cs50.harvard.edu/python/weeks/5/">Week 6 - File I/O 文件 I/O</a>
+### <a href = "https://cs50.harvard.edu/python/weeks/6/">Week 6 - File I/O 文件 I/O</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week6/lines">Lines of Code</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week6/pizza">Pizza Py</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week6/scourgify">Scourgify</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week6/shirt">CS50 P-Shirt</a>
+### <a href = "https://cs50.harvard.edu/python/weeks/7/">Week 7 Regular Expressions 正则表达式</a>
+  - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week7/numb3rs">NUMB3RS</a>
+  - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week7/watch">Watch on YouTube</a>
+  - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week7/working">Working 9 to 5</a>
+  - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week7/um">Regular, um, Expressions</a>
+  - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week7/response">Response Validation</a>
 
 ## 👨‍💻 项目概览
 
