@@ -65,7 +65,7 @@
 ### <a href = "https://cs50.harvard.edu/python/weeks/7/">Week 8 - Object-Oriented Programming 面向对象编程</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week8/seasons">Seasons of Love</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week8/jar">Cookie Jar</a>
-  - <a href = "">CS50 Shirtificate</a>
+  - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week8/shirtificate">CS50 Shirtificate</a>
 
 ## 👨‍💻 项目概览
 
