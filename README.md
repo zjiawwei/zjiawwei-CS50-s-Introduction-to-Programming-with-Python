@@ -56,12 +56,16 @@
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week6/pizza">Pizza Py</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week6/scourgify">Scourgify</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week6/shirt">CS50 P-Shirt</a>
-### <a href = "https://cs50.harvard.edu/python/weeks/7/">Week 7 Regular Expressions 正则表达式</a>
+### <a href = "https://cs50.harvard.edu/python/weeks/7/">Week 7 - Regular Expressions 正则表达式</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week7/numb3rs">NUMB3RS</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week7/watch">Watch on YouTube</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week7/working">Working 9 to 5</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week7/um">Regular, um, Expressions</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week7/response">Response Validation</a>
+### <a href = "https://cs50.harvard.edu/python/weeks/7/">Week 8 - Object-Oriented Programming 面向对象编程</a>
+  - <a href = "">Seasons of Love</a>
+  - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week8/seasons">Seasons of Love</a>
+  - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week8/jar">Cookie Jar</a>
 
 ## 👨‍💻 项目概览
 
