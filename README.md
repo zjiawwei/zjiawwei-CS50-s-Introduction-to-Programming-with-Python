@@ -63,9 +63,9 @@
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week7/um">Regular, um, Expressions</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week7/response">Response Validation</a>
 ### <a href = "https://cs50.harvard.edu/python/weeks/7/">Week 8 - Object-Oriented Programming 面向对象编程</a>
-  - <a href = "">Seasons of Love</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week8/seasons">Seasons of Love</a>
   - <a href = "https://github.com/zjiawwei/zjiawwei-CS50-s-Introduction-to-Programming-with-Python/tree/main/week8/jar">Cookie Jar</a>
+  - <a href = "">CS50 Shirtificate</a>
 
 ## 👨‍💻 项目概览
 
